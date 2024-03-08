@@ -1,0 +1,11 @@
+@media (max-width: 900px) {
+    .logo {
+      flex-direction: column;
+      height: 300px;
+    }
+    .img-rodape{
+        border-top: solid 2px blue;
+        width: 300px;
+        height: 150px;
+    }
+}
